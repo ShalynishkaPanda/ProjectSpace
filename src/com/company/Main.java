@@ -5,6 +5,9 @@ public class Main {
     public static void project(){
         System.out.println("Start project!");
     }
+    public static void stop(){
+        System.out.println("Stop project!");
+    }
 
     public static void main(String[] args) {
         System.out.println("The most popular");
